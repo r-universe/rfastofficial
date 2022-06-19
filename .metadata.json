@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Rfast",
+    "oncran": true
+  },
+  {
+    "package": "Rfast2",
+    "oncran": true
+  }
+]
